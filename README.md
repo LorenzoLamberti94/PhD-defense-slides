@@ -13,12 +13,12 @@ Feel free to cite me :)
 
 ```
 @phdthesis{lamberti_phd_thesis_2024,
-            year = {2024},
+           year = {2024},
            month = {Luglio},
            title = {Enabling multi-tasking AI-based perception on autonomous nano-UAVS},
-          author = {Lorenzo Lamberti},
-          school = {alma},
-             url = {https://amsdottorato.unibo.it/id/eprint/11643/},
-        keywords = {Autonomous Nano-UAV, Artificial Intelligence, Embedded systems, Ultra-low-power, Energy-efficiency.}
+           author = {Lorenzo Lamberti},
+           school = {alma},
+           url = {https://amsdottorato.unibo.it/id/eprint/11643/},
+           keywords = {Autonomous Nano-UAV, Artificial Intelligence, Embedded systems, Ultra-low-power, Energy-efficiency.}
 }
 ```
