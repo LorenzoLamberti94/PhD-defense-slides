@@ -12,7 +12,7 @@ Feel free to cite me :)
 ### Citing
 
 ```
-@phdthesis{lamberti_hd_thesis_2024,
+@phdthesis{lamberti_phd_thesis_2024,
             year = {2024},
            month = {Luglio},
            title = {Enabling multi-tasking AI-based perception on autonomous nano-UAVS},
